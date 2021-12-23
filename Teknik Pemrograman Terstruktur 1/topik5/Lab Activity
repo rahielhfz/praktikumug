@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main()
+{
+    // Deklarasi string movie dan beri batasan 14 karakter pada string tersebut
+    char movie[] = "Jack and jill";
+    
+    // Mencetak string movie
+    printf("%s\n", movie);
+    return 0; 
+    
+}
